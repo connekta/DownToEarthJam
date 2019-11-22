@@ -82,3 +82,5 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Build/
+
+*.mp3
